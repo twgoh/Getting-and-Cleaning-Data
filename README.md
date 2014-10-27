@@ -13,7 +13,7 @@ To run the analysis,  ensure that the following raw data files are saved in the 
 The analysis file is named as "run_analysis.R", and can be found in this repo.
 
 ### What run_analysis.R does:
-The major steps in the running of the analysis codes are detailed as follows:<br>
+The major steps in the running of the analysis codes are detailed as follows:<br><br>
 1. Reading in of the raw data files<br><br>
 2. Merging the raw data sets to create one data set<br><br>
 3. Extract only the relevant variables, i.e., only the measurements on the mean and standard deviation for each measurement<br><br>
