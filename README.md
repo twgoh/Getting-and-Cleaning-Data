@@ -9,8 +9,10 @@ To run the analysis,  ensure that the following raw data files are saved in the 
 - 'test/X_test.txt': Test set.
 - 'test/y_test.txt': Test labels.
 
+### Analysis file
 The analysis file is named as "run_analysis.R", and can be found in this repo.
 
+### What run_analysis.R does:
 The major steps in the running of the analysis codes are detailed as follows:
 1. Reading in of the raw data files
 2. Merging the raw data sets to create one data set
