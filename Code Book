@@ -1,5 +1,5 @@
 Code Book
-=================
+=========
 
 The original data set is found at: http://archive.ics.uci.edu/ml/machine-learning-databases/00240/
 
@@ -36,6 +36,5 @@ fBodyGyroMag
 fBodyGyroJerkMag
 
 The set of variables that were estimated from these signals are: 
-
 mean(): Mean value
 std(): Standard deviation
