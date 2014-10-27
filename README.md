@@ -1,6 +1,6 @@
 Getting-and-Cleaning-Data
 =========================
-
+### Raw data
 To run the analysis,  ensure that the following raw data files are saved in the working directory:
 - 'features.txt': List of all features.
 - 'activity_labels.txt': Links the class labels with their activity name.
@@ -15,11 +15,11 @@ The analysis file is named as "run_analysis.R", and can be found in this repo.
 ### What run_analysis.R does:
 The major steps in the running of the analysis codes are detailed as follows:<br>
 <b>
-1. Reading in of the raw data files
-2. Merging the raw data sets to create one data set
-3. Extract only the relevant variables, i.e., only the measurements on the mean and standard deviation for each measurement.
-4. The activities in the data set are named with the descriptive labels
-5. A second independent tidy data set is created, which provides the average of each variable for each activity and each subject.
+1. Reading in of the raw data files<br>
+2. Merging the raw data sets to create one data set<br>
+3. Extract only the relevant variables, i.e., only the measurements on the mean and standard deviation for each measurement<br>
+4. The activities in the data set are named with the descriptive labels<br>
+5. A second independent tidy data set is created, which provides the average of each variable for each activity and each subject.<br>
 
 Background information on the data set
 ======================================
